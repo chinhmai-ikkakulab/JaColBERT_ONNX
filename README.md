@@ -1,2 +1,2 @@
 # JaColBERT_ONNX
-Onnx model file of JaColBERTv2.5 model
+Onnx model of JaColBERTv2.5
